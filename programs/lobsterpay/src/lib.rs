@@ -10,7 +10,7 @@ pub mod utils;
 
 use instructions::*;
 
-declare_id!("A184DBQaCM6qWETbEDJUtr25bSuuTH72sTTixsyoZbtS");
+declare_id!("2Rc85XXSoahDHscAVhvxVczBX5Csy3p7Tf7MnqPs81Ju");
 
 #[program]
 pub mod lobsterpay {
